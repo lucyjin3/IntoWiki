@@ -3,6 +3,6 @@ Other tools utilized in this program is Pandas, NetworkX, and MySQL.
 
 
 #Before running program
-![image](https://user-images.githubusercontent.com/73535572/209458268-986fe67b-e167-461c-a95b-26c0840db230.png)
+(https://user-images.githubusercontent.com/73535572/209458268-986fe67b-e167-461c-a95b-26c0840db230.png)
 From this link given, download 'simplewiki-latest-pagelinks.sql.gz'
 and 'simplewiki-latest-pagelinks.sql.gz'
